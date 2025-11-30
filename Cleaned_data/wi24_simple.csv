@@ -1,0 +1,124 @@
+sec_id,sec_code,prof,total,ten_percent,course_id,from_waitlist,size_change
+317876,A01,Shannon; Kyle Michael,35,3.5,8,5,0
+317986,A01,Boroditsky; Lera,149,14.9,11,31,0
+318292,A01,Fleischer; Jason G,35,3.5,18,2,0
+318293,A02,Fleischer; Jason G,35,3.5,18,6,0
+318294,A03,Fleischer; Jason G,35,3.5,18,5,0
+318299,A04,Fleischer; Jason G,35,3.5,18,8,0
+318312,A05,Fleischer; Jason G,35,3.5,18,2,0
+318313,A06,Fleischer; Jason G,35,3.5,18,3,0
+318314,A07,Fleischer; Jason G,35,3.5,18,0,0
+318350,A08,Fleischer; Jason G,35,3.5,18,1,0
+318353,A09,Fleischer; Jason G,35,3.5,18,2,0
+318547,A01,Fleischer; Jason G,35,3.5,118B,8,0
+318548,A02,Fleischer; Jason G,35,3.5,118B,3,0
+318553,A03,Fleischer; Jason G,35,3.5,118B,1,0
+318562,A04,Fleischer; Jason G,35,3.5,118B,0,0
+318597,A05,Fleischer; Jason G,35,3.5,118B,0,0
+318614,A00,Beatty-Martinez; Anne,115,11.5,153,14,0
+358663,A01,Kiyonaga; Anastasia,62,6.2,1,3,0
+358665,A02,Kiyonaga; Anastasia,65,6.5,1,4,0
+358666,A03,Kiyonaga; Anastasia,66,6.6000000000000005,1,1,0
+358672,A04,Kiyonaga; Anastasia,56,5.6000000000000005,1,3,0
+358673,A05,Kiyonaga; Anastasia,56,5.6000000000000005,1,4,0
+358676,A06,Kiyonaga; Anastasia,56,5.6000000000000005,1,4,0
+358679,A07,Kiyonaga; Anastasia,56,5.6000000000000005,1,15,0
+358680,A01,Boyle; Mary E. T.,70,7.0,2,10,1
+358684,A02,Boyle; Mary E. T.,70,7.0,2,11,1
+358694,A03,Boyle; Mary E. T.,65,6.5,2,6,1
+358697,A04,Boyle; Mary E. T.,65,6.5,2,11,1
+358704,A01,Morgan; Eric,58,5.800000000000001,10,4,0
+358712,A02,Morgan; Eric,58,5.800000000000001,10,10,0
+358713,A03,Morgan; Eric,56,5.6000000000000005,10,6,0
+358719,A04,Morgan; Eric,56,5.6000000000000005,10,9,0
+358720,A05,Morgan; Eric,50,5.0,10,5,0
+358723,A06,Morgan; Eric,50,5.0,10,5,0
+358726,A01,Rossano; Federico,60,6.0,13,3,0
+358731,A02,Rossano; Federico,66,6.6000000000000005,13,2,0
+358741,A03,Rossano; Federico,68,6.800000000000001,13,4,0
+358744,A04,Rossano; Federico,56,5.6000000000000005,13,1,0
+358781,A05,Rossano; Federico,50,5.0,13,4,0
+358783,A06,Rossano; Federico,50,5.0,13,4,0
+358785,A01,Creel; Sarah,75,7.5,156,25,0
+358813,A01,Greene; Deanna Jacquelyn,68,6.800000000000001,172,10,0
+358814,A02,Greene; Deanna Jacquelyn,68,6.800000000000001,172,7,0
+358816,A03,Greene; Deanna Jacquelyn,56,5.6000000000000005,172,4,0
+358918,A01,Morgan; Eric,60,6.0,100,2,0
+358965,A02,Morgan; Eric,66,6.6000000000000005,100,0,0
+358966,A03,Morgan; Eric,68,6.800000000000001,100,0,0
+358969,A04,Morgan; Eric,56,5.6000000000000005,100,1,0
+358970,A05,Morgan; Eric,50,5.0,100,0,0
+358971,A06,Morgan; Eric,50,5.0,100,0,0
+358973,A01,Ellis; Shannon Elizabeth,54,5.4,108,4,0
+358974,A02,Ellis; Shannon Elizabeth,54,5.4,108,17,0
+359017,A03,Ellis; Shannon Elizabeth,60,6.0,108,9,0
+359018,A04,Ellis; Shannon Elizabeth,60,6.0,108,3,0
+359023,A05,Ellis; Shannon Elizabeth,50,5.0,108,3,0
+359027,A06,Ellis; Shannon Elizabeth,50,5.0,108,2,0
+359119,B01,Ellis; Shannon Elizabeth,54,5.4,108,1,0
+359205,B02,Ellis; Shannon Elizabeth,54,5.4,108,2,0
+359206,B03,Ellis; Shannon Elizabeth,60,6.0,108,5,0
+359207,B04,Ellis; Shannon Elizabeth,60,6.0,108,3,0
+359208,B05,Ellis; Shannon Elizabeth,50,5.0,108,0,0
+359209,B06,Ellis; Shannon Elizabeth,50,5.0,108,4,0
+359210,A01,Hoffman; Drew Ellen,50,5.0,111,22,0
+359211,A02,Hoffman; Drew Ellen,50,5.0,111,29,0
+359212,A03,Hoffman; Drew Ellen,50,5.0,111,4,0
+359213,A04,Hoffman; Drew Ellen,50,5.0,111,2,0
+359214,A01,Barrera; Steven James,60,6.0,101A,6,0
+359215,A02,Barrera; Steven James,66,6.6000000000000005,101A,12,0
+359216,A03,Barrera; Steven James,68,6.800000000000001,101A,3,0
+359217,A04,Barrera; Steven James,56,5.6000000000000005,101A,2,0
+359218,A05,Barrera; Steven James,50,5.0,101A,2,0
+359219,A06,Barrera; Steven James,50,5.0,101A,4,0
+359220,A01,Allen; Michael Gordon,50,5.0,101B,3,1
+359221,A02,Allen; Michael Gordon,50,5.0,101B,3,1
+359222,A03,Allen; Michael Gordon,60,6.0,101B,10,1
+359223,A04,Allen; Michael Gordon,50,5.0,101B,10,1
+363995,A01,Boyle; Mary E. T.,50,5.0,163,49,0
+363996,A02,Boyle; Mary E. T.,50,5.0,163,50,0
+364049,A01,Chiba; Andrea,48,4.800000000000001,164,14,0
+364050,A02,Chiba; Andrea,48,4.800000000000001,164,10,0
+364100,A01,Mooshagian; Eric Frederick,56,5.6000000000000005,107B,4,1
+364119,A02,Mooshagian; Eric Frederick,56,5.6000000000000005,107B,2,1
+364126,A05,Mooshagian; Eric Frederick,50,5.0,107B,1,0
+364133,A06,Mooshagian; Eric Frederick,50,5.0,107B,3,0
+364176,A01,Mukamel; Eran A,50,5.0,118C,4,0
+364191,A01,Hoffman; Drew Ellen,50,5.0,14B,1,0
+364198,A02,Hoffman; Drew Ellen,50,5.0,14B,4,0
+364205,A03,Hoffman; Drew Ellen,50,5.0,14B,0,0
+364221,A04,Hoffman; Drew Ellen,50,5.0,14B,1,0
+364238,A01,Kirsh; David Joel,54,5.4,187B,1,1
+364472,A02,Kirsh; David Joel,50,5.0,187B,0,0
+365453,A01,Johnson; Christine M.,65,6.5,17,8,1
+365454,A02,Johnson; Christine M.,65,6.5,17,8,1
+365456,A03,Johnson; Christine M.,60,6.0,17,9,0
+365457,A04,Johnson; Christine M.,60,6.0,17,3,0
+365466,A05,Johnson; Christine M.,70,7.0,17,17,1
+365467,A06,Johnson; Christine M.,68,6.800000000000001,17,11,1
+365480,A01,Tu; Zhuowen,60,6.0,181,11,0
+365483,A02,Tu; Zhuowen,60,6.0,181,16,0
+365501,A03,Mooshagian; Eric Frederick,65,6.5,107B,0,1
+365508,A04,Mooshagian; Eric Frederick,65,6.5,107B,0,1
+365509,A01,Barrera; Steven James,60,6.0,14A,3,0
+365512,A02,Barrera; Steven James,60,6.0,14A,3,0
+365515,A03,Barrera; Steven James,60,6.0,14A,0,0
+365527,A04,Barrera; Steven James,60,6.0,14A,4,0
+365528,A05,Barrera; Steven James,60,6.0,14A,2,0
+380767,A00,Tung; Janet C,132,13.200000000000001,177,24,0
+380770,B01,Hempel; Brian,35,3.5,18,5,0
+380771,B02,Hempel; Brian,35,3.5,18,3,0
+380772,B03,Hempel; Brian,35,3.5,18,4,0
+380782,B04,Hempel; Brian,35,3.5,18,2,0
+380783,B05,Hempel; Brian,35,3.5,18,5,0
+380785,B06,Hempel; Brian,35,3.5,18,1,0
+380796,B07,Hempel; Brian,35,3.5,18,7,0
+380808,B08,Hempel; Brian,35,3.5,18,4,0
+380815,B09,Hempel; Brian,35,3.5,18,5,0
+383820,A01,Trott; Sean Thomas,50,5.0,150,9,0
+386004,A01,Staff,50,5.0,9,5,0
+386005,A02,Staff,50,5.0,9,4,0
+386024,A03,Staff,50,5.0,9,2,0
+386025,A04,Staff,50,5.0,9,11,0
+386035,A05,Staff,50,5.0,9,4,0
+386036,A06,Staff,50,5.0,9,5,0

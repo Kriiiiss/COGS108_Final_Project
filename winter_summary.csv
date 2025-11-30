@@ -1,0 +1,107 @@
+sec_id,sec_code,prof,total,ten_percent,course_id,off_waitlist,size_change
+99956,A01,Shannon; Kyle Michael,70,7,9,3,0
+99957,A02,Shannon; Kyle Michael,70,7,9,18,1
+99958,A03,Shannon; Kyle Michael,70,7,9,15,1
+99966,A01,Johnson; Christine M.,65,6,13,3,1
+99967,A02,Johnson; Christine M.,65,6,13,4,1
+99968,A03,Johnson; Christine M.,60,6,13,3,0
+99969,A04,Johnson; Christine M.,60,6,13,1,0
+99971,A01,Nunez; Rafael E,67,7,14A,16,1
+99972,A02,Nunez; Rafael E,62,6,14A,12,1
+99973,A03,Nunez; Rafael E,63,6,14A,17,1
+99974,A04,Nunez; Rafael E,61,6,14A,8,1
+99975,A05,Nunez; Rafael E,61,6,14A,8,1
+99977,A01,Barrera; Steven James,65,6,14B,8,1
+99978,A02,Barrera; Steven James,60,6,14B,4,0
+99979,A03,Barrera; Steven James,60,6,14B,5,0
+99981,A01,Johnson; Christine M.,75,8,17,20,1
+99982,A02,Johnson; Christine M.,70,7,17,23,1
+99983,A03,Johnson; Christine M.,73,7,17,15,1
+99984,A04,Johnson; Christine M.,60,6,17,2,0
+99985,A05,Johnson; Christine M.,60,6,17,3,0
+99986,A06,Johnson; Christine M.,60,6,17,5,0
+99988,A01,Fleischer; Jason G,35,4,18,3,0
+99989,A02,Fleischer; Jason G,35,4,18,5,0
+99990,A03,Fleischer; Jason G,35,4,18,4,0
+99991,A04,Fleischer; Jason G,35,4,18,2,0
+99992,A05,Fleischer; Jason G,35,4,18,2,0
+99993,A06,Fleischer; Jason G,35,4,18,3,0
+99994,A07,Fleischer; Jason G,35,4,18,2,0
+99995,A08,Fleischer; Jason G,35,4,18,3,0
+99996,A09,Fleischer; Jason G,35,4,18,1,0
+100055,A01,Barrera; Steven James,60,6,101A,3,0
+100056,A02,Barrera; Steven James,60,6,101A,3,0
+100064,A03,Barrera; Steven James,60,6,101A,3,0
+100065,A04,Barrera; Steven James,60,6,101A,1,0
+100066,A05,Barrera; Steven James,60,6,101A,3,0
+100067,A06,Barrera; Steven James,60,6,101A,4,0
+100126,A01,Trott; Sean Thomas,75,8,101C,0,0
+100130,A02,Trott; Sean Thomas,75,8,101C,0,0
+100284,A01,Boyle; Mary E. T.,60,6,107A,0,0
+100285,A02,Boyle; Mary E. T.,60,6,107A,0,0
+100291,A03,Boyle; Mary E. T.,60,6,107A,0,0
+100292,A04,Boyle; Mary E. T.,60,6,107A,0,0
+100294,A05,Boyle; Mary E. T.,60,6,107A,0,0
+100304,A06,Boyle; Mary E. T.,60,6,107A,0,0
+100325,A01,Staff,60,6,108,4,0
+100327,A02,Staff,60,6,108,2,0
+100328,A03,Staff,60,6,108,3,0
+100330,A04,Staff,60,6,108,6,0
+100340,A05,Staff,60,6,108,7,0
+100341,A06,Staff,60,6,108,7,0
+100343,A07,Staff,60,6,108,3,0
+100346,A01,Hoffman; Drew Ellen,60,6,111,8,0
+100348,A02,Hoffman; Drew Ellen,60,6,111,16,0
+100358,A03,Hoffman; Drew Ellen,60,6,111,6,0
+100361,A01,Deak; Gedeon O.,68,7,115,17,2
+100388,A01,Mukamel; Eran A,70,7,118C,3,1
+100403,A01,Dow; Steven P,32,3,123,6,1
+100404,A02,Dow; Steven P,34,3,123,6,1
+100409,A03,Dow; Steven P,33,3,123,8,1
+100410,A04,Dow; Steven P,31,3,123,9,1
+100412,A05,Dow; Steven P,30,3,123,6,1
+100422,A00,Guo; Philip J,30,3,124,4,1
+100425,A01,Hollan; James D.,40,4,126,4,2
+100428,A01,Guo; Philip J,40,4,127,1,0
+100430,A02,Guo; Philip J,40,4,127,1,0
+100440,A03,Guo; Philip J,40,4,127,3,0
+100593,A01,Creel; Sarah,75,8,156,15,0
+100596,A01,Boyle; Mary E. T.,70,7,163,10,0
+100598,A01,Kiyonaga; Anastasia,75,8,165,1,0
+100933,A01,Tu; Zhuowen,50,5,181,0,1
+100934,A02,Tu; Zhuowen,50,5,181,0,2
+100977,A03,Tu; Zhuowen,50,5,181,1,2
+100991,A04,Tu; Zhuowen,50,5,181,0,1
+101057,A01,Kirsh; David Joel,50,5,187B,2,0
+101092,A02,Kirsh; David Joel,50,5,187B,6,0
+101106,A00,Staff,200,20,189,0,0
+107417,A01,Hoffman; Drew Ellen,60,6,101B,4,0
+107418,A02,Hoffman; Drew Ellen,60,6,101B,3,0
+107419,A03,Hoffman; Drew Ellen,60,6,101B,1,0
+107420,A04,Hoffman; Drew Ellen,60,6,101B,3,0
+107421,A05,Hoffman; Drew Ellen,60,6,101B,0,0
+107423,A01,Staff,68,7,107B,13,1
+107424,A02,Staff,68,7,107B,5,1
+107425,A03,Staff,70,7,107B,17,1
+107426,A04,Staff,72,7,107B,15,1
+107920,A01,Boyle; Mary E. T.,60,6,1,5,0
+107921,A02,Boyle; Mary E. T.,60,6,1,8,0
+107922,A03,Boyle; Mary E. T.,60,6,1,6,0
+107923,A04,Boyle; Mary E. T.,60,6,1,0,0
+107924,A05,Boyle; Mary E. T.,60,6,1,5,0
+107925,A06,Boyle; Mary E. T.,55,6,1,10,0
+107926,A07,Boyle; Mary E. T.,55,6,1,13,0
+107928,A01,Staff,67,7,100,19,1
+107929,A02,Staff,67,7,100,20,1
+107930,A03,Staff,67,7,100,24,1
+107931,A04,Staff,67,7,100,13,1
+107932,A05,Staff,67,7,100,12,1
+107934,A01,Greene; Deanna Jacquelyn,60,6,172,0,0
+107935,A02,Greene; Deanna Jacquelyn,70,7,172,2,1
+115285,A01,Ellis; Shannon Elizabeth,70,7,137,48,1
+115287,A01,Fleischer; Jason G,60,6,118A,4,0
+115288,A02,Fleischer; Jason G,60,6,118A,0,0
+115289,A03,Fleischer; Jason G,60,6,118A,0,0
+115290,A04,Fleischer; Jason G,60,6,118A,0,0
+117933,A01,Nunez; Rafael E,50,5,152,0,1
+161544,A04,Shannon; Kyle Michael,40,4,9,29,1

@@ -1,0 +1,104 @@
+sec_id,sec_code,prof,total,ten_percent,course_id,from_waitlist,size_change
+87834,A01,Barrera; Steven James,60,6.0,1,13,0
+87835,A02,Barrera; Steven James,60,6.0,1,15,0
+87836,A03,Barrera; Steven James,60,6.0,1,7,0
+87837,A04,Barrera; Steven James,60,6.0,1,23,0
+87838,A05,Barrera; Steven James,60,6.0,1,10,0
+87839,A06,Barrera; Steven James,60,6.0,1,8,0
+87840,A07,Barrera; Steven James,57,5.7,1,16,0
+87842,A01,Boyle; Mary E. T.,64,6.4,2,8,0
+87843,A02,Boyle; Mary E. T.,64,6.4,2,7,0
+87844,A03,Boyle; Mary E. T.,64,6.4,2,23,0
+87848,A01,Boyle; Mary E. T.,51,5.1000000000000005,11,9,1
+87849,A02,Boyle; Mary E. T.,51,5.1000000000000005,11,22,1
+87850,A03,Boyle; Mary E. T.,48,4.800000000000001,11,13,1
+87857,A01,Creel; Sarah,68,6.800000000000001,14A,12,1
+87858,A02,Creel; Sarah,65,6.5,14A,27,0
+87859,A03,Creel; Sarah,65,6.5,14A,13,0
+87860,A04,Creel; Sarah,65,6.5,14A,13,0
+87862,A01,Hoffman; Drew Ellen,70,7.0,14B,4,4
+87863,A02,Hoffman; Drew Ellen,68,6.800000000000001,14B,2,4
+87864,A03,Hoffman; Drew Ellen,68,6.800000000000001,14B,7,4
+87866,A01,Bergen; Benjamin,60,6.0,15,5,0
+87867,A02,Bergen; Benjamin,70,7.0,15,4,1
+87869,A01,Johnson; Christine M.,69,6.9,17,13,2
+87870,A02,Johnson; Christine M.,60,6.0,17,6,1
+87871,A03,Johnson; Christine M.,60,6.0,17,0,1
+87872,A04,Johnson; Christine M.,60,6.0,17,1,1
+87873,A05,Johnson; Christine M.,60,6.0,17,6,1
+87874,A06,Johnson; Christine M.,60,6.0,17,2,1
+87876,A01,Fleischer; Jason G,35,3.5,18,12,0
+87877,A02,Fleischer; Jason G,35,3.5,18,4,0
+87878,A03,Fleischer; Jason G,35,3.5,18,6,0
+87879,A04,Fleischer; Jason G,35,3.5,18,4,0
+87880,A05,Fleischer; Jason G,35,3.5,18,4,0
+87881,A06,Fleischer; Jason G,35,3.5,18,6,0
+87882,A07,Fleischer; Jason G,35,3.5,18,4,0
+87883,A08,Fleischer; Jason G,35,3.5,18,5,0
+87884,A09,Fleischer; Jason G,35,3.5,18,7,0
+87892,A01,Kirsh; David Joel,60,6.0,100,6,0
+87893,A02,Kirsh; David Joel,60,6.0,100,12,0
+87894,A03,Kirsh; David Joel,60,6.0,100,5,0
+87895,A04,Kirsh; David Joel,60,6.0,100,10,0
+87896,A05,Kirsh; David Joel,60,6.0,100,12,0
+87898,A01,Hoffman; Drew Ellen,65,6.5,101A,7,1
+87899,A02,Hoffman; Drew Ellen,60,6.0,101A,12,0
+87900,A03,Hoffman; Drew Ellen,70,7.0,101A,10,2
+87901,A04,Hoffman; Drew Ellen,60,6.0,101A,8,3
+87902,A05,Hoffman; Drew Ellen,60,6.0,101A,17,3
+87903,A06,Hoffman; Drew Ellen,60,6.0,101A,9,1
+87905,A01,Barrera; Steven James,60,6.0,101B,1,0
+87906,A02,Barrera; Steven James,60,6.0,101B,2,0
+87907,A03,Barrera; Steven James,60,6.0,101B,8,0
+87912,A01,Rangel; Lara M,60,6.0,107A,0,0
+87913,A02,Rangel; Lara M,60,6.0,107A,1,0
+87914,A03,Rangel; Lara M,60,6.0,107A,1,0
+87915,A04,Rangel; Lara M,70,7.0,107A,22,1
+87916,A05,Rangel; Lara M,60,6.0,107A,4,0
+87917,A06,Rangel; Lara M,60,6.0,107A,2,0
+87919,A01,Fleischer; Jason G,60,6.0,108,15,0
+87920,A02,Fleischer; Jason G,60,6.0,108,5,0
+87921,A03,Fleischer; Jason G,60,6.0,108,3,0
+87922,A04,Fleischer; Jason G,60,6.0,108,4,0
+87923,A05,Fleischer; Jason G,60,6.0,108,4,0
+87924,A06,Fleischer; Jason G,60,6.0,108,7,0
+87925,A07,Fleischer; Jason G,57,5.7,108,14,0
+87927,A01,Deak; Gedeon O.,35,3.5,110,1,0
+87928,A02,Deak; Gedeon O.,35,3.5,110,16,0
+87930,A01,De Sa; Virginia,35,3.5,118B,0,0
+87931,A02,De Sa; Virginia,35,3.5,118B,0,0
+87932,A03,De Sa; Virginia,35,3.5,118B,0,0
+87933,A04,De Sa; Virginia,35,3.5,118B,0,0
+87934,A05,De Sa; Virginia,35,3.5,118B,0,0
+87935,A06,De Sa; Virginia,35,3.5,118B,0,0
+87937,A01,Xia; Haijun,50,5.0,120,11,0
+87938,A02,Xia; Haijun,50,5.0,120,11,0
+87939,A03,Xia; Haijun,50,5.0,120,11,0
+87940,A04,Xia; Haijun,50,5.0,120,19,0
+87947,A01,Johnson; Christine M.,40,4.0,143,8,0
+87958,A01,Kirsh; David Joel,50,5.0,187A,9,0
+87959,A02,Kirsh; David Joel,50,5.0,187A,2,0
+87960,A03,Kirsh; David Joel,45,4.5,187A,2,0
+90761,A01,Borgo; David Garcia,7,0.7000000000000001,20,0,1
+90762,A02,Borgo; David Garcia,7,0.7000000000000001,20,2,1
+90763,A03,Borgo; David Garcia,7,0.7000000000000001,20,1,1
+94228,A01,Greene; Deanna Jacquelyn,52,5.2,116,0,0
+94229,A02,Greene; Deanna Jacquelyn,52,5.2,116,0,0
+94230,A03,Greene; Deanna Jacquelyn,52,5.2,116,0,0
+94240,A01,Cooperrider; Kensy A,75,7.5,101C,8,0
+94241,A02,Cooperrider; Kensy A,75,7.5,101C,8,0
+94312,A01,Boyle; Mary E. T.,35,3.5,3,12,0
+94313,A02,Boyle; Mary E. T.,35,3.5,3,26,0
+94314,A03,Boyle; Mary E. T.,35,3.5,3,5,0
+94315,A04,Boyle; Mary E. T.,35,3.5,3,15,0
+94316,A05,Boyle; Mary E. T.,35,3.5,3,19,0
+94357,A01,Hollan; James D.,60,6.0,10,19,0
+94358,A02,Hollan; James D.,60,6.0,10,9,0
+94359,A03,Hollan; James D.,60,6.0,10,14,0
+94360,A04,Hollan; James D.,60,6.0,10,7,0
+94361,A05,Hollan; James D.,60,6.0,10,6,0
+106334,A01,Staff,60,6.0,9,13,0
+106335,A02,Staff,62,6.2,9,14,1
+106336,A03,Staff,62,6.2,9,8,2
+106337,A04,Staff,63,6.300000000000001,9,11,3
+106338,A05,Staff,62,6.2,9,9,1

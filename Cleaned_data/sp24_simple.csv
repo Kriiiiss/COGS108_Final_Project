@@ -1,0 +1,110 @@
+sec_id,sec_code,prof,total,ten_percent,course_id,from_waitlist,size_change
+407484.0,A01,Boyle; Mary E. T.,70.0,7.0,1,12.0,1.0
+407498.0,A02,Boyle; Mary E. T.,65.0,6.5,1,3.0,1.0
+407504.0,A03,Boyle; Mary E. T.,65.0,6.5,1,12.0,1.0
+407512.0,A04,Boyle; Mary E. T.,65.0,6.5,1,10.0,1.0
+407513.0,A05,Boyle; Mary E. T.,66.0,6.6000000000000005,1,13.0,1.0
+407514.0,A06,Boyle; Mary E. T.,65.0,6.5,1,8.0,1.0
+407515.0,A07,Boyle; Mary E. T.,64.0,6.4,1,12.0,1.0
+407520.0,A01,Shannon; Kyle Michael,60.0,6.0,9,15.0,0.0
+407521.0,A02,Shannon; Kyle Michael,60.0,6.0,9,14.0,0.0
+407522.0,A03,Shannon; Kyle Michael,60.0,6.0,9,3.0,0.0
+407524.0,A04,Shannon; Kyle Michael,60.0,6.0,9,3.0,0.0
+407525.0,A05,Shannon; Kyle Michael,60.0,6.0,9,20.0,0.0
+407527.0,A01,Morgan; Eric,50.0,5.0,10,2.0,0.0
+407530.0,A02,Morgan; Eric,50.0,5.0,10,0.0,0.0
+407531.0,A03,Morgan; Eric,50.0,5.0,10,1.0,0.0
+407532.0,A04,Morgan; Eric,50.0,5.0,10,3.0,0.0
+407534.0,A05,Morgan; Eric,50.0,5.0,10,4.0,0.0
+407539.0,A06,Morgan; Eric,50.0,5.0,10,3.0,0.0
+407628.0,A07,Morgan; Eric,50.0,5.0,10,2.0,0.0
+407699.0,A01,Boroditsky; Lera,180.0,18.0,11,25.0,0.0
+407702.0,A00,Boroditsky; Lera,75.0,7.5,12,52.0,0.0
+407706.0,A01,Barrera; Steven James,57.0,5.7,14A,3.0,0.0
+407707.0,A02,Barrera; Steven James,57.0,5.7,14A,4.0,0.0
+407715.0,A04,Barrera; Steven James,57.0,5.7,14A,5.0,0.0
+407717.0,A05,Barrera; Steven James,56.0,5.6000000000000005,14A,2.0,0.0
+407718.0,A06,Barrera; Steven James,55.0,5.5,14A,1.0,0.0
+407720.0,A07,Barrera; Steven James,55.0,5.5,14A,2.0,0.0
+407723.0,A01,Hoffman; Drew Ellen,57.0,5.7,14B,1.0,0.0
+407726.0,A02,Hoffman; Drew Ellen,55.0,5.5,14B,0.0,0.0
+407727.0,A03,Hoffman; Drew Ellen,55.0,5.5,14B,1.0,0.0
+407729.0,A04,Hoffman; Drew Ellen,55.0,5.5,14B,0.0,0.0
+407730.0,A05,Hoffman; Drew Ellen,55.0,5.5,14B,0.0,0.0
+407733.0,A01,Johnson; Christine M.,50.0,5.0,17,7.0,0.0
+407734.0,A02,Johnson; Christine M.,50.0,5.0,17,1.0,0.0
+407735.0,A03,Johnson; Christine M.,50.0,5.0,17,1.0,0.0
+407740.0,A04,Johnson; Christine M.,50.0,5.0,17,0.0,0.0
+407745.0,A05,Johnson; Christine M.,50.0,5.0,17,2.0,0.0
+407824.0,A06,Johnson; Christine M.,50.0,5.0,17,5.0,0.0
+407878.0,A07,Johnson; Christine M.,55.0,5.5,17,4.0,0.0
+408015.0,A08,Johnson; Christine M.,55.0,5.5,17,1.0,0.0
+408118.0,A01,Ellis; Shannon Elizabeth,35.0,3.5,18,5.0,0.0
+408119.0,A02,Ellis; Shannon Elizabeth,35.0,3.5,18,4.0,0.0
+408120.0,A03,Ellis; Shannon Elizabeth,35.0,3.5,18,2.0,0.0
+408136.0,A04,Ellis; Shannon Elizabeth,35.0,3.5,18,1.0,0.0
+408141.0,A05,Ellis; Shannon Elizabeth,35.0,3.5,18,2.0,0.0
+408143.0,A06,Ellis; Shannon Elizabeth,35.0,3.5,18,2.0,0.0
+408144.0,A07,Ellis; Shannon Elizabeth,35.0,3.5,18,2.0,0.0
+408145.0,A08,Ellis; Shannon Elizabeth,35.0,3.5,18,6.0,0.0
+408146.0,A09,Ellis; Shannon Elizabeth,35.0,3.5,18,1.0,0.0
+408148.0,B01,Ellis; Shannon Elizabeth,32.0,3.2,18,2.0,0.0
+408149.0,B02,Ellis; Shannon Elizabeth,32.0,3.2,18,3.0,0.0
+408151.0,B03,Ellis; Shannon Elizabeth,33.0,3.3000000000000003,18,0.0,0.0
+408154.0,B04,Ellis; Shannon Elizabeth,33.0,3.3000000000000003,18,1.0,0.0
+408163.0,B05,Ellis; Shannon Elizabeth,33.0,3.3000000000000003,18,3.0,0.0
+408176.0,B06,Ellis; Shannon Elizabeth,33.0,3.3000000000000003,18,1.0,0.0
+408177.0,B07,Ellis; Shannon Elizabeth,33.0,3.3000000000000003,18,1.0,0.0
+408178.0,B08,Ellis; Shannon Elizabeth,33.0,3.3000000000000003,18,3.0,0.0
+408195.0,B09,Ellis; Shannon Elizabeth,33.0,3.3000000000000003,18,4.0,0.0
+408262.0,A01,Allen; Michael Gordon,56.0,5.6000000000000005,100,0.0,0.0
+408263.0,A02,Allen; Michael Gordon,56.0,5.6000000000000005,100,2.0,0.0
+408264.0,A03,Allen; Michael Gordon,56.0,5.6000000000000005,100,3.0,0.0
+408265.0,A04,Allen; Michael Gordon,56.0,5.6000000000000005,100,0.0,0.0
+408266.0,A05,Allen; Michael Gordon,56.0,5.6000000000000005,100,0.0,0.0
+408349.0,A06,Allen; Michael Gordon,56.0,5.6000000000000005,100,0.0,0.0
+408352.0,A01,Morgan; Eric,60.0,6.0,101A,0.0,0.0
+408353.0,A02,Morgan; Eric,60.0,6.0,101A,1.0,0.0
+408354.0,A03,Morgan; Eric,60.0,6.0,101A,2.0,0.0
+408355.0,A04,Morgan; Eric,60.0,6.0,101A,35.0,0.0
+408373.0,A01,Barrera; Steven James,50.0,5.0,101B,0.0,0.0
+408380.0,A02,Barrera; Steven James,50.0,5.0,101B,2.0,0.0
+408384.0,A03,Barrera; Steven James,56.0,5.6000000000000005,101B,3.0,1.0
+408385.0,A04,Barrera; Steven James,50.0,5.0,101B,0.0,0.0
+408387.0,A01,Trott; Sean Thomas,56.0,5.6000000000000005,101C,2.0,1.0
+408388.0,A02,Trott; Sean Thomas,56.0,5.6000000000000005,101C,3.0,1.0
+408389.0,A03,Trott; Sean Thomas,56.0,5.6000000000000005,101C,2.0,1.0
+408413.0,A01,Mooshagian; Eric Frederick,50.0,5.0,107B,1.0,0.0
+408414.0,A02,Mooshagian; Eric Frederick,50.0,5.0,107B,0.0,0.0
+408428.0,A03,Mooshagian; Eric Frederick,50.0,5.0,107B,4.0,0.0
+408434.0,A04,Mooshagian; Eric Frederick,50.0,5.0,107B,0.0,0.0
+408435.0,A05,Mooshagian; Eric Frederick,50.0,5.0,107B,6.0,0.0
+408446.0,A06,Mooshagian; Eric Frederick,50.0,5.0,107B,3.0,0.0
+408500.0,A01,Chiba; Andrea,60.0,6.0,107C,0.0,0.0
+408519.0,A02,Chiba; Andrea,60.0,6.0,107C,0.0,0.0
+408524.0,A03,Chiba; Andrea,60.0,6.0,107C,0.0,0.0
+408532.0,A01,Fleischer; Jason G,60.0,6.0,108,4.0,0.0
+408543.0,A02,Fleischer; Jason G,60.0,6.0,108,1.0,0.0
+408544.0,A03,Fleischer; Jason G,60.0,6.0,108,2.0,0.0
+408552.0,A04,Fleischer; Jason G,60.0,6.0,108,4.0,0.0
+408554.0,A05,Fleischer; Jason G,60.0,6.0,108,4.0,0.0
+408574.0,A06,Fleischer; Jason G,60.0,6.0,108,6.0,0.0
+408576.0,A07,Fleischer; Jason G,60.0,6.0,108,1.0,0.0
+408682.0,A01,Hoffman; Drew Ellen,50.0,5.0,112,28.0,0.0
+408683.0,A02,Hoffman; Drew Ellen,50.0,5.0,112,4.0,0.0
+408684.0,A03,Hoffman; Drew Ellen,70.0,7.0,112,26.0,1.0
+408697.0,A00,Klemmer; Scott R,50.0,5.0,125,9.0,0.0
+408787.0,A01,Hollan; James D.,50.0,5.0,126,41.0,0.0
+408866.0,A01,Khosla; Meenakshi,75.0,7.5,138,0.0,0.0
+408868.0,A01,Rossano; Federico,50.0,5.0,142,49.0,0.0
+408950.0,A01,Rossano; Federico,50.0,5.0,144,6.0,0.0
+408993.0,A01,Staff,50.0,5.0,155,8.0,0.0
+408994.0,A00,Creel; Sarah,0.0,0.0,157,0.0,0.0
+409035.0,A01,Rill; Bryan,75.0,7.5,175,81.0,0.0
+409274.0,A00,Jernigan; Terry Lynne,70.0,7.0,178,21.0,0.0
+409278.0,A00,Staff,52.0,5.2,179,12.0,2.0
+409317.0,A01,Johnson; Christine M.,50.0,5.0,184,68.0,0.0
+409476.0,A01,Tu; Zhuowen,50.0,5.0,185,0.0,0.0
+409525.0,A02,Tu; Zhuowen,50.0,5.0,185,1.0,0.0
+409527.0,A01,Fleischer; Jason G,75.0,7.5,188,15.0,0.0
+500952.0,A08,Barrera; Steven James,56.0,5.6000000000000005,14A,4.0,1.0
